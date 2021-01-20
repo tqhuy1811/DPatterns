@@ -1,0 +1,1 @@
+// Not worth mentioning. Overall a bad pattern. Thread safe has to considered when implementing this pattern
