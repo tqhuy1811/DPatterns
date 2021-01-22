@@ -1,0 +1,1 @@
+// There are ways to implement this kind of pattern in a much simple manner + order execution of event
